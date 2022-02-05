@@ -1,5 +1,15 @@
-### Hi I'm Aziz Mesfar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 👋
+### Hi I'm Aziz Mesfar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> �
 
+<table>
+<tr>
+  <td valign="center">
+    🎓 I recently obtained my university degree in ** Electromechanical Engineering** .
+    🌱 I am currently learning **React JS** and also interested in **Web Development**.
+    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    ✨ I love to create different types of **contents**.
+<td >
+  
+  
 <!--
 **AzizMesfar/AzizMesfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
